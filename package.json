@@ -1,0 +1,28 @@
+"name": "wk1-code-challenge",
+  "version": "1.0.0",
+  "description": "First,this is a program that inputs students marks which its task is to generate students grades running from 0 - 100.Secondly,this program takes as input the speed of a car,in this case being a speed detector,where the condition is if the speed is less than 70km/h,it should print \"OK\".Otherwise if the speed is above the limit(70km/h),it should give the driver one demerit point and print the total number of demerit points. Lastly,the program acts as a net salary calculator where its majot task is to calculate an individual net salary by getting the inputs of basic salary and benefits",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kombobill/code-week-challenge-one-.git"
+  },
+  "keywords": [
+    "grade",
+    "generator",
+    "speed",
+    "detector",
+    "net",
+    "salary",
+    "calculator"
+  ],
+  "author": "Billgates kombo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kombobill/code-week-challenge-one-"
+  },
+  "homepage": "https://github.com/Kombobill/code-week-challenge-one-#readme"
+}
