@@ -11,7 +11,7 @@ Getting Started
     1.A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
     2.nodejs 9.0+
 
-#Running the application
+ #Running the application
 
 There are three challenges, we will three run three different applications to obtained required results.
 
@@ -19,7 +19,7 @@ Challenge 1: Student Grade Generator (Toy Problem)
 
 Write that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: A > 79, B - 60 to 79, C - 59 to 49, D - 40 to 49, E - less 40.
 
-#Running challenge one
+ #Running challenge one
 
 Call the function , console.log(grade_generator()) where the grade input will go in between the brackets attached to the function .Then run node index.js or npm start to see the output of said function.
 
