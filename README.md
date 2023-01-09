@@ -8,7 +8,10 @@ GETTING STARTED
 
  For you to use the content on this repo ensure you have the following:
 
-    1.A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+
+ 1.A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+
+
     2.nodejs 9.0+
 
  #RUNNING THE APPLICATION
@@ -29,7 +32,8 @@ Write a program that takes as input the speed of a car e.g 80. If the speed is l
 
 #RUNNING CHALLENGE TWO
 
-    Call the function, console.log(speed_detector()); where the speed input will go in between the brackets attached to the function.Then run node index.js or npm start see the output of said function. 
+
+  Call the function, console.log(speed_detector()); where the speed input will go in between the brackets attached to the function.Then run node index.js or npm start see the output of said function. 
     
     
 CHALLENGE 3:NET SALARY CALCULATOR(TOY PROBLEM) 
@@ -39,7 +43,9 @@ CHALLENGE 3:NET SALARY CALCULATOR(TOY PROBLEM)
 
 #RUNNING CHALLENGE THREE
 
-    Call the function , console.log(Salary()); where the salary and benefits input will go in between the brackets attached to the function.Then run node index.jsor npm start to see the output of said function.
+
+ Call the function , console.log(Salary()); where the salary and benefits input will go in between the brackets attached to the function.Then run node index.jsor npm start to see the output of said function.
+
 
 Author
 
