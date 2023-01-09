@@ -12,7 +12,7 @@ GETTING STARTED
  1.A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
 
 
-    2.nodejs 9.0+
+ 2.nodejs 9.0+
 
  #RUNNING THE APPLICATION
 
