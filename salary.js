@@ -1,4 +1,5 @@
 //Code challenge three
+// *Salary - function to calculates individual's net salary
 
 let salary;
 let benefits;
@@ -59,7 +60,7 @@ console.log('Gross salary:', gross)
     console.log('NHIF deduction:', NHIF)
     console.log('Taxes: PAYE + Nssf + Nhif :', (NSSF + PAYE + NHIF ))
     let netSalary = 'Net Salary:  ' + (gross - (NSSF + PAYE + NHIF ))
-    return netSalary;
+    return netSalary;//This returns Net Salary, PAYE  and NSSF
 }
 }
         console.log(Salary(100000, 5000));
