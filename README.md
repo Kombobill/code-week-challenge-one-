@@ -51,7 +51,8 @@ Author
 
 This project was contributed to by:
 
-    [Billgates kombo]
+
+ [Billgates kombo]
 
 License
 
